@@ -43,7 +43,7 @@ RSpec.describe "Articles", type: :request do
 			end
 		end
 	end
-
+	
 	describe 'GET /articles/:id' do 
 		context 'with existing article' do 
 
